@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 
-Complex numbers are numbers with a *real component* and an *imaginary component*
+This website showcases my project exploring how quantum science can be applied to the field of engineering. This project was completed as part of the MathQuantum High School Fellows Program during the summer of 2026.
