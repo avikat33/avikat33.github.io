@@ -14,7 +14,12 @@ Alloys are materials made by combining two or more elements, usually metals, to 
 High-performance alloys are specially designed to survive extreme conditions such as high temperatures, pressure, and mechanical stress. These materials maintain their strength and stability even in environments where traditional materials would fail.
 
 <p align="center">
-  <img src="/assets/images/alloy.jfif" width="100">
+  <img src="/assets/images/alloy.jfif" width="300">
+</p>
+
+<p align="center">
+  <img src="/assets/images/Inconel-718-photo-2.jpg" width="300">
+    <figcaption><em>Figure 1. Example of a high-performance alloy microstructure.</em></figcaption>
 </p>
 
 ### What are composites?
@@ -23,6 +28,9 @@ Composite materials are made by combining two or more different materials to cre
 
 Examples include carbon fiber composites, concrete, and plywood.
 
+<p align="center">
+  <img src="/assets/images/1703473422191.jfif" width="300">
+</p>
 
 ### Why are they important?
 
@@ -39,3 +47,23 @@ Examples of industries that use alloys for specific applications:
 - **Medical:** Titanium alloys are used in implants and surgical tools because they are strong and biocompatible with the body.
 
 - **Automotive:** High-performance materials improve the durability and efficiency of engines and vehicles.
+ <p align="center">
+  <img src="/assets/images/images.jfif" width="300">
+</p>
+
+  <p align="center">
+  <img src="/assets/images/images (1).jfif" width="300">
+</p>
+
+ <p align="center">
+  <img src="/assets/images/images (2).jfif" width="300">
+</p>
+
+ <p align="center">
+  <img src="/assets/images/bio-photo.jpg" width="300">
+</p>
+
+ <p align="center">
+  <img src="/assets/images/images (3).jfif" width="300">
+</p>
+
