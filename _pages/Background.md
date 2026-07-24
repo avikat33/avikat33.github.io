@@ -96,6 +96,7 @@ Other computational methods study materials at larger scales:
 
 - CALPHAD: Uses thermodynamic data to predict material stability under different temperatures and compositions.
 
+
 ## 2.4 Limitations of Classical Methods
 Classical computational methods work well for many materials, but they become more challenging as materials become more complex.
 
