@@ -33,7 +33,7 @@ Composite materials are made by combining two or more different materials to cre
 Examples include carbon fiber composites, concrete, and plywood.
 
 <p align="center">
-  <img src="/assets/images/1703473422191.jfif" width="200">
+  <img src="/assets/images/1703473422191.jfif" width="400">
 </p>
 
 ### Why are they important?
@@ -106,5 +106,5 @@ Classical computational methods work well for many materials, but they become mo
 - Therefore, quantum algorithms may help optimize material designs and simulate complex atomic interactions more efficiently.
 
 <p align="center">
-  <img src="/assets/images/Screenshot_24-7-2026_02228_docs.google.com.jpeg" width="200">
+  <img src="assets/images/high entropy alloy.jfif" width="200">
 </p>
