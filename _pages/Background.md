@@ -12,12 +12,14 @@ author_profile: true
 Alloys are materials made by combining two or more elements, usually metals, to create better properties than pure metals. For example, steel is made from iron and carbon, while bronze is made from copper and tin. By changing the elements and their amounts, scientists can design materials that are stronger, lighter, or more resistant to corrosion.
 
 High-performance alloys are specially designed to survive extreme conditions such as high temperatures, pressure, and mechanical stress. These materials maintain their strength and stability even in environments where traditional materials would fail.
+<img src="/assets/images/alloy.jfif" style="width:40%;">
 
 ### What are composites?
 
 Composite materials are made by combining two or more different materials to create improved properties. They are mainly designed to combine the strengths of their individual materials.
 
 Examples include carbon fiber composites, concrete, and plywood.
+
 
 ### Why are they important?
 
