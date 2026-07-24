@@ -54,19 +54,19 @@ Examples of industries that use alloys for specific applications:
  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <figure>
-    <img src="/assets/images/images.jfif" width="220">
+    <img src="/assets/images/images.jfif" width="120">
   </figure>
 
   <figure>
-    <img src="/assets/images/images (1).jfif" width="220">
+    <img src="/assets/images/images (1).jfif" width="120">
   </figure>
 
   <figure>
-    <img src="/assets/images/images (2).jfif" width="220">
+    <img src="/assets/images/images (2).jfif" width="120">
   </figure>
 
   <figure>
-    <img src="/assets/images/images (3).jfif" width="220">
+    <img src="/assets/images/images (3).jfif" width="120">
   </figure>
 
 </div>
@@ -105,4 +105,6 @@ Classical computational methods work well for many materials, but they become mo
 - Searching through all possible material designs using classical methods can become slow and expensive.
 - Therefore, quantum algorithms may help optimize material designs and simulate complex atomic interactions more efficiently.
 
-
+<p align="center">
+  <img src="/assets/images/Screenshot_24-7-2026_02228_docs.google.com.jpeg" width="200">
+</p>
