@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Avika Teotia"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Incoming Enginneering Student at the Univeristy of Maryland"
+  bio    : "Incoming Freshman @  Univeristy of Maryland"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
