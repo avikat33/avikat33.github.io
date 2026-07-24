@@ -13,14 +13,19 @@ Alloys are materials made by combining two or more elements, usually metals, to 
 
 High-performance alloys are specially designed to survive extreme conditions such as high temperatures, pressure, and mechanical stress. These materials maintain their strength and stability even in environments where traditional materials would fail.
 
-<p align="center">
-  <img src="/assets/images/alloy.jfif" width="300">
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<p align="center">
-  <img src="/assets/images/Inconel-718-photo-2.jpg" width="300">
-    <figcaption><em>Figure 1. Example of a high-performance alloy microstructure.</em></figcaption>
-</p>
+  <figure>
+    <img src="/assets/images/alloy.jfif" width="300">
+    <figcaption><em>Example alloy</em></figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/Inconel-718-photo-2.jpg" width="300">
+    <figcaption><em>Inconel 718, a nickel-chromium superalloy.</em></figcaption>
+  </figure>
+
+</div>
 
 ### What are composites?
 
@@ -47,23 +52,31 @@ Examples of industries that use alloys for specific applications:
 - **Medical:** Titanium alloys are used in implants and surgical tools because they are strong and biocompatible with the body.
 
 - **Automotive:** High-performance materials improve the durability and efficiency of engines and vehicles.
- <p align="center">
-  <img src="/assets/images/images.jfif" width="300">
-</p>
+ <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <p align="center">
-  <img src="/assets/images/images (1).jfif" width="300">
-</p>
+  <figure>
+    <img src="/assets/images/images.jfif" width="220">
+    <figcaption>Aerospace</figcaption>
+  </figure>
 
- <p align="center">
-  <img src="/assets/images/images (2).jfif" width="300">
-</p>
+  <figure>
+    <img src="/assets/images/images (1).jfif" width="220">
+    <figcaption>Energy</figcaption>
+  </figure>
 
- <p align="center">
-  <img src="/assets/images/bio-photo.jpg" width="300">
-</p>
+  <figure>
+    <img src="/assets/images/images (2).jfif" width="220">
+    <figcaption>Chemical</figcaption>
+  </figure>
 
- <p align="center">
-  <img src="/assets/images/images (3).jfif" width="300">
-</p>
+  <figure>
+    <img src="/assets/images/bio-photo.jpg" width="220">
+    <figcaption>Medical</figcaption>
+  </figure>
 
+  <figure>
+    <img src="/assets/images/images (3).jfif" width="220">
+    <figcaption>Automotive</figcaption>
+  </figure>
+
+</div>
