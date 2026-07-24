@@ -70,3 +70,39 @@ Examples of industries that use alloys for specific applications:
   </figure>
 
 </div>
+
+## 2.2 The Challenge of Designing New Materials
+
+- The arrangement of atoms, crystal structures, and electrons behavior determine a material’s strength, conductivity, and heat resistance.
+  
+- It’s hard to design complex materials because scientists have to predict how millions of atoms and electrons will behave together. Each electron interacts with many others, like a chain of dominoes, which requires a lot of computational power. This easily turns into a trial-and-error approach which is slow and expensive.
+
+
+## 2.3 Current Classical Methods for Material Design
+
+Computer simulations are often used by material scientists to predict material properties before creating and testing materials in a lab. These are some of the common methods used for simulating and designing. 
+### Density Functional Theory (DFT)
+DFT is a quantum mechanical method that calculates how electrons behave inside a material. It helps predict properties such as stability, energy, and chemical behavior.
+### Molecular Dynamics (MD)
+Molecular Dynamics simulates how atoms move and interact over time. It helps researchers understand how materials respond to conditions such as heat, pressure, and stress.
+### Monte Carlo Simulations
+Monte Carlo methods use probability and repeated random sampling to predict possible outcomes in complex systems. They are used to study material structures and behaviors.
+### Larger-Scale Modeling
+Other computational methods study materials at larger scales:
+
+- Finite Element Method (FEM): Predicts how materials behave under forces, heat, or stress by dividing the material into smaller sections.
+
+- Phase Field Models: Study changes in material structures, such as crystal growth and phase changes.
+
+- CALPHAD: Uses thermodynamic data to predict material stability under different temperatures and compositions.
+
+## 2.4 Limitations of Classical Methods
+Classical computational methods work well for many materials, but they become more challenging as materials become more complex.
+
+- High-performance alloys can contain many different elements, creating a large number of possible combinations and atomic structures.
+- High-entropy alloys (HEAs) contain multiple elements in nearly equal proportions, making their design space much larger than traditional alloys.
+- Methods like DFT and Molecular Dynamics require significant computational resources as the number of atoms and interactions increases.
+- Searching through all possible material designs using classical methods can become slow and expensive.
+- Therefore, quantum algorithms may help optimize material designs and simulate complex atomic interactions more efficiently.
+
+
