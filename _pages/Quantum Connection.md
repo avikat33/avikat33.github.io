@@ -15,21 +15,9 @@ The Variational Method uses a trial wave function, called an ansatz, with adjust
 
 In VQE, the quantum computer creates a possible state of the molecule and calculates its energy using the Hamiltonian. A classical computer then adjusts the parameters of the quantum circuit to find a state with lower energy. This process repeats until the algorithm finds the lowest possible energy state, helping scientists predict the stability and properties of materials.
 
-The main VQE equation is:
-
-$$
-E(\theta)=\langle\psi(\theta)|H|\psi(\theta)\rangle
-$$
-
-**What the variables mean:**
-
-- $E(\theta)$ represents the energy of the current quantum state.
-- $|\psi(\theta)\rangle$ represents the trial wave function created by a parameterized quantum circuit.
-- $\theta$ represents the adjustable parameters (the "knobs") that control the quantum circuit.
-- $H$ represents the Hamiltonian, which describes the total energy of the system.
-- $\langle\psi(\theta)|H|\psi(\theta)\rangle$ calculates the expected energy of the quantum state.
-
-The goal of VQE is to adjust the parameters $\theta$ until the equation produces the lowest possible energy. This lowest energy state represents the most stable configuration of a molecule or material.
+<figure>
+    <img src="/assets/images/an.png" width="200">
+  </figure>
 
 Youtube Video to help understand VQE: 
 
@@ -60,21 +48,9 @@ Quantum annealing problems are often represented using the Ising model, which co
 
 ### Ising Model 
 
-The Ising model is a mathematical model used to represent optimization problems as an energy equation. It was used to study magnetic materials,which can either have spin up (+1) or spin down (-1). These states can represent possible choices or variables in an optimization problem.
+<figure>
+    <img src="/assets/images/an.png" width="200">
+</figure>
 
-The Ising energy equation is:
-
-$$
-E(s)=\sum_{i=1}^{N} h_i s_i+\sum_{i=1}^{N}\sum_{j=i+1}^{N}J_{ij}s_is_j
-$$
-
-**What the variables mean:**
-
-- $s_i$ represents the state of each variable, either $+1$ or $-1$.
-- $h_i$ represents the individual effect or preference of each variable.
-- $J_{ij}$ represents the relationship between two variables, showing whether they work together or oppose each other.
-- $E(s)$ represents the total energy of a possible solution.
-
-It searches for the values of $s_i$ that produce the lowest energy. This lowest-energy solution represents the optimal answer to the optimization problem.
   
 For alloy design, the Ising model can represent different choices of elements and their positions within a crystal structure. Each variable can represent whether a specific element occupies a certain location, while the interactions between variables describe how neighboring atoms influence each other. Overall goal is to find the most stable configuration. 
