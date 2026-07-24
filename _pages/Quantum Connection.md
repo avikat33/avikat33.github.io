@@ -16,7 +16,7 @@ The Variational Method uses a trial wave function, called an ansatz, with adjust
 In VQE, the quantum computer creates a possible state of the molecule and calculates its energy using the Hamiltonian. A classical computer then adjusts the parameters of the quantum circuit to find a state with lower energy. This process repeats until the algorithm finds the lowest possible energy state, helping scientists predict the stability and properties of materials.
 
 <figure>
-  <img src="/assets/images/Screenshot_24-7-2026_142546_github.com.jpeg" width="200">
+  <img src="/assets/images/Screenshot_24-7-2026_142546_github.com.jpeg" width="400">
 </figure>
 
 Youtube Video to help understand VQE: 
@@ -49,7 +49,7 @@ Quantum annealing problems are often represented using the Ising model, which co
 ### Ising Model 
 
 <figure>
-  <img src="/assets/images/Screenshot_24-7-2026_142559_github.com.jpeg" width="200">
+  <img src="/assets/images/Screenshot_24-7-2026_142559_github.com.jpeg" width="400">
 </figure>
 
   
