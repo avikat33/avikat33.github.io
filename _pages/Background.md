@@ -107,5 +107,5 @@ Classical computational methods work well for many materials, but they become mo
 - Therefore, quantum algorithms may help optimize material designs and simulate complex atomic interactions more efficiently.
 
 <p align="center">
-  <img src="assets/images/high entropy alloy.jfif" width="200">
+  <img src="/assets/images/high entropy alloy.jfif" width="200">
 </p>
