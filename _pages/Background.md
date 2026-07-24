@@ -67,7 +67,6 @@ Examples of industries that use alloys for specific applications:
 
   <figure>
     <img src="/assets/images/images (3).jfif" width="220">
-    <figcaption>Automotive</figcaption>
   </figure>
 
 </div>
