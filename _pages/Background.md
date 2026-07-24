@@ -16,11 +16,11 @@ High-performance alloys are specially designed to survive extreme conditions suc
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <figure>
-    <img src="/assets/images/alloy.jfif" width="300">
+    <img src="/assets/images/alloy.jfif" width="200">
   </figure>
 
   <figure>
-    <img src="/assets/images/Inconel-718-photo-2.jpg" width="300">
+    <img src="/assets/images/Inconel-718-photo-2.jpg" width="200">
     <figcaption><em>Inconel 718, a nickel-chromium superalloy.</em></figcaption>
   </figure>
 
@@ -33,7 +33,7 @@ Composite materials are made by combining two or more different materials to cre
 Examples include carbon fiber composites, concrete, and plywood.
 
 <p align="center">
-  <img src="/assets/images/1703473422191.jfif" width="300">
+  <img src="/assets/images/1703473422191.jfif" width="200">
 </p>
 
 ### Why are they important?
