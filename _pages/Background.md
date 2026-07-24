@@ -17,7 +17,6 @@ High-performance alloys are specially designed to survive extreme conditions suc
 
   <figure>
     <img src="/assets/images/alloy.jfif" width="300">
-    <figcaption><em>Example alloy</em></figcaption>
   </figure>
 
   <figure>
@@ -56,22 +55,14 @@ Examples of industries that use alloys for specific applications:
 
   <figure>
     <img src="/assets/images/images.jfif" width="220">
-    <figcaption>Aerospace</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/images (1).jfif" width="220">
-    <figcaption>Energy</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/images (2).jfif" width="220">
-    <figcaption>Chemical</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/images/bio-photo.jpg" width="220">
-    <figcaption>Medical</figcaption>
   </figure>
 
   <figure>
