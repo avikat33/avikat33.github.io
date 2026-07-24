@@ -5,6 +5,9 @@ main:
   - title: "Background"
     url: /about/
 
+  - title: "Quantum Connection"
+    url: /quantum-connection/
+
   - title: "Methods"
     url: /methods/
 
