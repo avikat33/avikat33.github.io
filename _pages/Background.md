@@ -21,7 +21,7 @@ High-performance alloys are specially designed to survive extreme conditions suc
 
   <figure>
     <img src="/assets/images/Inconel-718-photo-2.jpg" width="200">
-    <figcaption><em>Inconel 718, a nickel-chromium superalloy.</em></figcaption>
+    <figcaption><em>Annealing process’s energy diagram shows raising the energy barrier for a single qubit, resulting in a 50/50 probability of ending in a classical state of 0 or 1. Figure from D-Wave quantum</em></figcaption>
   </figure>
 
 </div>
