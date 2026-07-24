@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<h2> 2.1 Why Do We Care About High-Performance Alloys and Composites? </h1>
+<h2>2.1 Why Do We Care About High-Performance Alloys and Composites?</h2>
 
 <h3>What they are: </h3>
 Alloys are materials made by combining two or more elements, usually metals, to create better properties than pure metals. For example, steel is made from iron and carbon, while bronze is made from copper and tin. By changing the elements and their amounts, scientists can design materials that are stronger, lighter, or more resistant to corrosion.
