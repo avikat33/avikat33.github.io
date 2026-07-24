@@ -15,6 +15,10 @@ The Variational Method uses a trial wave function, called an ansatz, with adjust
 
 In VQE, the quantum computer creates a possible state of the molecule and calculates its energy using the Hamiltonian. A classical computer then adjusts the parameters of the quantum circuit to find a state with lower energy. This process repeats until the algorithm finds the lowest possible energy state, helping scientists predict the stability and properties of materials.
 
+Youtube Video to help understand VQE: 
+
+[Quantum Computing and Materials Science Explained](https://www.youtube.com/watch?v=TUFovZsBcW4)
+
 ### Quantum Annealing
 Quantum annealing is a quantum computing method designed to solve complex optimization problems by finding the best solution among many possible choices. It uses quantum effects such as superposition and quantum tunneling to explore different solutions more efficiently. At the beginning of the process, qubits are placed into a superposition state, allowing the system to represent many possible solutions at the same time.
 
