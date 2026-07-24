@@ -21,3 +21,7 @@ Quantum annealing is a quantum computing method designed to solve complex optimi
 During the annealing process, quantum tunneling allows the system to move through energy barriers and avoid solutions that are not optimal. Unlike classical methods that may get stuck in a local minimum, quantum annealing can explore different possibilities to search for a better solution. As the process continues, the quantum state evolves until the system reaches a final state that represents the best solution.
 
 Quantum annealing problems are often represented using the Ising model, which converts an optimization problem into an energy equation. In this model, variables represent possible choices, hi​ represents the effect of individual choices, and Ji​ represents interactions between choices. The goal is to find the combination of choices that produces the lowest energy solution.
+
+<p align="center">
+  <img src="/assets/images/an.png" width="300">
+</p>
