@@ -11,5 +11,5 @@ This project combines my interests in engineering, math, and solving real-world 
 
 I'm also interested in explorin PennyLane's quantum chemistry tutorials and use the Variational Quantum Eigensolver (VQE) algorithm to simulate small molecular systems by creating Hamiltonians, and finding ground-state energies to understand how we can use quantum algorithms to model atomic interactions on a smaller scale for myself.
 
-- 1. https://pennylane.ai/codebook/variational-quantum-algorithms/parametrized-quantum-circuits
-- 2. https://pennylane.ai/codebook/hamiltonian-time-evolution/energy-in-quantum-systems
+- https://pennylane.ai/codebook/variational-quantum-algorithms/parametrized-quantum-circuits
+- https://pennylane.ai/codebook/hamiltonian-time-evolution/energy-in-quantum-systems
