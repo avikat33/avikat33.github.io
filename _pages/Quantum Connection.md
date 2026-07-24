@@ -17,13 +17,10 @@ In VQE, the quantum computer creates a possible state of the molecule and calcul
 
 Youtube Video to help understand VQE: 
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/TUFovZsBcW4" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-allowfullscreen>
-</iframe>
+<a href="https://www.youtube.com/watch?v=TUFovZsBcW4">
+<img src="https://img.youtube.com/vi/TUFovZsBcW4/maxresdefault.jpg" 
+alt="Quantum Computing Video Preview">
+</a>
 
 ### Quantum Annealing
 Quantum annealing is a quantum computing method designed to solve complex optimization problems by finding the best solution among many possible choices. It uses quantum effects such as superposition and quantum tunneling to explore different solutions more efficiently. At the beginning of the process, qubits are placed into a superposition state, allowing the system to represent many possible solutions at the same time.
