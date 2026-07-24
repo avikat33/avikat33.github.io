@@ -22,6 +22,15 @@ During the annealing process, quantum tunneling allows the system to move throug
 
 Quantum annealing problems are often represented using the Ising model, which converts an optimization problem into an energy equation. In this model, variables represent possible choices, hi​ represents the effect of individual choices, and Ji​ represents interactions between choices. The goal is to find the combination of choices that produces the lowest energy solution.
 
-<p align="center">
-  <img src="/assets/images/an.png" width="300">
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <figure>
+    <img src="/assets/images/an.png" width="200">
+  </figure>
+
+  <figure>
+    <img src="/assets/images/an2.png" width="200">
+    <figcaption><em>Annealing process’s energy diagram shows raising the energy barrier for a single qubit, resulting in a 50/50 probability of ending in a classical state of 0 or 1. Figure from D-Wave quantum</em></figcaption>
+  </figure>
+
+</div>
