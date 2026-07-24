@@ -15,6 +15,22 @@ The Variational Method uses a trial wave function, called an ansatz, with adjust
 
 In VQE, the quantum computer creates a possible state of the molecule and calculates its energy using the Hamiltonian. A classical computer then adjusts the parameters of the quantum circuit to find a state with lower energy. This process repeats until the algorithm finds the lowest possible energy state, helping scientists predict the stability and properties of materials.
 
+The main VQE equation is:
+
+$$
+E(\theta)=\langle\psi(\theta)|H|\psi(\theta)\rangle
+$$
+
+where:
+
+- \(E(\theta)\) represents the energy of the current quantum state.
+- \(|\psi(\theta)\rangle\) represents the trial wave function created by a parameterized quantum circuit.
+- \(\theta\) represents the adjustable parameters (the "knobs") of the quantum circuit.
+- \(H\) is the Hamiltonian, which represents the total energy of the system.
+- \(\langle\psi(\theta)|H|\psi(\theta)\rangle\) calculates the expected energy of the state.
+
+VQE works by repeatedly adjusting the parameters \(\theta\) to minimize the energy. The lowest energy found corresponds to the most stable state of the molecule or material.
+
 Youtube Video to help understand VQE: 
 
 <a href="https://www.youtube.com/watch?v=TUFovZsBcW4">
