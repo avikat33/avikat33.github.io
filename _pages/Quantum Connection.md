@@ -51,6 +51,7 @@ Quantum annealing problems are often represented using the Ising model, which co
 <figure>
   <img src="/assets/images/Screenshot_24-7-2026_142559_github.com.jpeg" width="400">
 </figure>
+- From D-Wave Quantum
 
   
 For alloy design, the Ising model can represent different choices of elements and their positions within a crystal structure. Each variable can represent whether a specific element occupies a certain location, while the interactions between variables describe how neighboring atoms influence each other. Overall goal is to find the most stable configuration. 
