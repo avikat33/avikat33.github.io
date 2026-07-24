@@ -34,3 +34,23 @@ Quantum annealing problems are often represented using the Ising model, which co
   </figure>
 
 </div>
+
+### Ising Model 
+
+The Ising model is a mathematical model used to represent optimization problems as an energy equation. It was used to study magnetic materials,which can either have spin up (+1) or spin down (-1). These states can represent possible choices or variables in an optimization problem.
+
+The Ising energy equation is:
+
+$$
+E(s)=\sum_{i=1}^{N} h_i s_i+\sum_{i=1}^{N}\sum_{j=i+1}^{N}J_{ij}s_is_j
+$$
+
+What the variables mean: 
+where:
+
+- \(s_i\) represents the state of each variable, either \(+1\) or \(-1\).
+- \(h_i\) represents the individual effect or preference of each variable.
+- \(J_{ij}\) represents the relationship between two variables, showing whether they should work together or oppose each other.
+- \(E(s)\) represents the total energy of a possible solution.
+
+For alloy design, the Ising model can represent different choices of elements and their positions within a crystal structure. Each variable can represent whether a specific element occupies a certain location, while the interactions between variables describe how neighboring atoms influence each other. Overall goal is to find the most stable configuration. 
